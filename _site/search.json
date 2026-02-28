@@ -4,13 +4,20 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I am a student majoring in statistics currently enrolled at California State University, Monterey Bay. I grew up in San Mateo, CA and when I was not getting lost in the worlds of my favorite stories, my mind would often wander to a couple things. Strategizing my cribbage game for the next time my grandmother visited us in California and in my League of Legends addicted middle school days thinking about the most optimal item builds and comparing and contrasting. Though I’ve unfortunately been unable to play cribbage as much with my grandmother as I’ve gotten older, the joy that I had found in thinking about what strategies to use is still very much a part of me today."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "cullin-kimura-portfolio",
+    "title": "Cullin Kimura",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Cullin Kimura is student at California State University, Monterey Bay majoring in statistics."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Cullin Kimura",
+    "section": "Education",
+    "text": "Education\nCalifornia State University, Monterey Bay | Seaside, CA\nB.S. in Statistics | 2023 - 2027 (expected)"
   }
 ]
