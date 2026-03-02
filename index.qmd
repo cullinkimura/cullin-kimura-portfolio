@@ -1,11 +1,19 @@
 ---
-title: "cullin-kimura-portfolio"
+title: "Cullin Kimura"
+about:
+  template: jolla
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/cullin-kimura-7380093b4/
+    - icon: github
+      text: Github
+      href: https://github.com/cullinkimura
 ---
 
-This is a Quarto website.
+Cullin Kimura is student at California State University, Monterey Bay majoring in statistics.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 1
-```
+California State University, Monterey Bay | Seaside, CA  
+B.S. in Statistics | 2023 - 2027 (expected)

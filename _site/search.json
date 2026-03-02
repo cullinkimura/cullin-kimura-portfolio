@@ -9,8 +9,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "cullin-kimura-portfolio",
+    "title": "Cullin Kimura",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Cullin Kimura is student at California State University, Monterey Bay majoring in statistics."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Cullin Kimura",
+    "section": "Education",
+    "text": "Education\nCalifornia State University, Monterey Bay | Seaside, CA\nB.S. in Statistics | 2023 - 2027 (expected)"
   }
 ]
