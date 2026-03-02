@@ -2,8 +2,4 @@
 title: "About"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+  Cullin Kimura is a student majoring in statistics currently enrolled at California State University, Monterey Bay (CSUMB). Within his time at CSUMB he looks to build a solid base understanding of statistical analysis and data collection methods.
